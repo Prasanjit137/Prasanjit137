@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Prasanjit Sarkar</h1>
+<h1 align="center">Hi there!👋, I'm Prasanjit Sarkar</h1>
 <h3 align="center">Would be an Electrical Engineer but passionate about coding.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasanjit137&label=Profile%20views&color=0e75b6&style=flat" alt="prasanjit137" /> </p>
 
-- 🌱 I’m started currently learning **Flutter**
+- 🌱 I’m a Python programmer, a Hobbyist and a Tech enthusiast and I love making DIY projects. Recenty I started learning **Flutter**
 
 - 📫 You can reach me through **ps.ee.1846@gmail.com**
 
