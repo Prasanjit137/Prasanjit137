@@ -11,7 +11,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/prasanjit-sarkar-855370154/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/prasanjit-sarkar-855370154/" height="30" width="40" /></a>
 <a href="https://www.facebook.com/prasanjit.blue/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/prasanjit.blue/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/ucmogwy5djducmjkko7nei1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucmogwy5djducmjkko7nei1w" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCmOGwy5DjDUcMJKKO7neI1w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="channel/ucmogwy5djducmjkko7nei1w" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
