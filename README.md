@@ -8,14 +8,6 @@
 
 <br />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prasanjit137&label=Profile%20Views&color=brightgreen" alt="Profile Views" />
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60" alt="Waving Hand GIF" />
-</p>
-
 ---
 
 ## 🚀 About Me
