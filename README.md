@@ -6,8 +6,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=⚡+Electrical+Engineer;💡+Tech+Enthusiast;🔥+DIY+Maker;📱+Flutter+Learner;🚀+Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
-<br />
-
 ---
 
 ## 🚀 About Me
