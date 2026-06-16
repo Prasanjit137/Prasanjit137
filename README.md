@@ -12,7 +12,7 @@
 
 - 👨‍💻 Passionate about **building tech projects**, from **DIY Electronics** to **Web Development**.
 - 🛠️ Skilled in **Python**, **Embedded Systems**, **Full-Stack Development**, and **IoT**.
-- 📬 Reach me: **ps.ee.1846@gmail.com**
+- 📬 Reach me: **sprasanjit2023@gmail.com**
 
 ---
 
