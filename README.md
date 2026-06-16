@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=⚡+Electrical+Engineer;💡+Tech+Enthusiast;🔥+DIY+Maker;📱+Flutter+Learner;🚀+Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=⚡+Electrical+Engineer;💡+GenAI+Enthusiast;🔥+DIY+Maker;🚀+Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,6 @@
 
 - 👨‍💻 Passionate about **building tech projects**, from **DIY Electronics** to **Web Development**.
 - 🛠️ Skilled in **Python**, **Embedded Systems**, **Full-Stack Development**, and **IoT**.
-- 🌱 Currently learning **Flutter** to craft beautiful apps.
 - 📬 Reach me: **ps.ee.1846@gmail.com**
 
 ---
