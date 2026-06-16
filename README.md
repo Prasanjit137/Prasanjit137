@@ -39,12 +39,12 @@
 
 ### 👨‍💻 Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,dart,java,javascript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,dart,java,javascript,typescript" alt="Languages" />
 </p>
 
 ### 🎨 Frontend Development
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flutter,tailwind" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flutter,tailwind,angular" alt="Frontend" />
 </p>
 
 ### 🛠 Backend Development
