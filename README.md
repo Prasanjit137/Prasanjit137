@@ -54,7 +54,7 @@
 
 ### 🗄️ Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,sqlite" alt="Databases" />
 </p>
 
 ### 🛠️ Tools & Platforms
