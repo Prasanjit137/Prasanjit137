@@ -59,7 +59,7 @@
 
 ### 🛠️ Tools & Platforms
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode,eclipse,docker,spring" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode,eclipse,docker,spring,netlify,vercel,sklearn" alt="Tools" />
 </p>
 
 ### 🤖 Embedded Systems / DIY Projects
