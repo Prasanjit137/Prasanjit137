@@ -28,6 +28,9 @@
   <a href="https://www.youtube.com/channel/UCmOGwy5DjDUcMJKKO7neI1w" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
+  <a href="https://www.instagram.com/charulatar_chitrakala/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
 </p>
 
 ---
