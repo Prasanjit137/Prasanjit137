@@ -82,28 +82,65 @@
 ---
 
   ## 📈 GitHub Stats
+### 🔥 Stats & Streak
 
-  <details>
-    <summary>✨ Show GitHub Stats</summary>
-    <br />
-    <p align="center">
-      <table>
-        <tr>
-          <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=prasanjit137&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-          </td>
-          <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanjit137&theme=tokyonight" alt="GitHub Streak" />
-          </td>
-        </tr>
-        <tr>
-          <td colspan="2" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjit137&layout=compact&theme=tokyonight" alt="Top Languages" />
-          </td>
-        </tr>
-      </table>
-    </p>
-  </details>
+<p align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=prasanjit137&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasanjit137&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</p>
+
+### 📈 Contribution Graph (Snake style)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasanjit137/prasanjit137/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prasanjit137/prasanjit137/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prasanjit137/prasanjit137/output/github-contribution-grid-snake.svg">
+</picture>
+
+> 💡 This snake eats your contributions! It updates daily via a GitHub Action.  
+> [Setup instructions](#-how-to-setup-the-snake-animation) below.
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanjit137&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+### 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjit137&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+### ⏳ WakaTime Stats (if you track coding time)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prasanjit137&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+</p>
+
+> 💡 Replace `prasanjit137` with your WakaTime username if different.
+
+---
+
+## 🛡️ Dynamic Badges & Counters
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=prasanjit137&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <a href="https://github.com/prasanjit137?tab=followers">
+    <img src="https://img.shields.io/github/followers/prasanjit137?style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/prasanjit137">
+    <img src="https://img.shields.io/github/stars/prasanjit137?style=social" alt="GitHub stars" />
+  </a>
+</p>
 
 ---
 
