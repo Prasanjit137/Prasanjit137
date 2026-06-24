@@ -97,7 +97,7 @@
   </table>
 </p>
 
-### 📈 Contribution Graph (Snake style)
+### 📈 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasanjit137/prasanjit137/output/github-contribution-grid-snake-dark.svg">
