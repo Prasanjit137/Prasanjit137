@@ -117,13 +117,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjit137&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-### ⏳ WakaTime Stats (if you track coding time)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prasanjit137&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
-</p>
-
-
 ---
 
 ## 🛡️ Dynamic Badges & Counters
