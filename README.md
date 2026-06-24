@@ -105,9 +105,6 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prasanjit137/prasanjit137/output/github-contribution-grid-snake.svg">
 </picture>
 
-> 💡 This snake eats your contributions! It updates daily via a GitHub Action.  
-> [Setup instructions](#-how-to-setup-the-snake-animation) below.
-
 ### 📈 Activity Graph
 
 <p align="center">
@@ -126,7 +123,6 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=prasanjit137&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 </p>
 
-> 💡 Replace `prasanjit137` with your WakaTime username if different.
 
 ---
 
