@@ -3,20 +3,20 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=⚡+Full+Stack+Developer;💡+GenAI+Enthusiast;🔥+DIY+Maker;🚀+Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&center=true&vCenter=true&width=500&height=50&lines=⚡+Full+Stack+Developer;+GenAI+Enthusiast;+DIY+Maker;+Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 👨‍💻 Passionate about **building tech projects**, from **DIY Electronics** to **Web Development**.
-- 🛠️ Skilled in **Python**, **Embedded Systems**, **Full-Stack Development**, and **IoT**.
-- 📬 Reach me: **sprasanjit2023@gmail.com**
+- Passionate about **building tech projects**, from **DIY Electronics** to **Web Development**.
+- Skilled in **Python**, **Embedded Systems**, **Full-Stack Development**, and **IoT**.
+- Reach me: **sprasanjit2023@gmail.com**
 
 ---
 
-## 🔗 Let's Connect
+## Let's Connect
 
 <p align="center">
   <a href="https://linkedin.com/in/prasanjit-sarkar-855370154/" target="_blank">
@@ -35,54 +35,54 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 👨‍💻 Languages
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,c,cpp,dart,java,javascript,typescript" alt="Languages" />
 </p>
 
-### 🎨 Frontend Development
+### Frontend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,flutter,tailwind,angular" alt="Frontend" />
 </p>
 
-### 🛠 Backend Development
+### Backend Development
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask" alt="Backend" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,supabase,sqlite" alt="Databases" />
 </p>
 
-### 🛠️ Tools & Platforms
+### Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,npm,postman,vscode,eclipse,docker,spring,netlify,vercel,sklearn" alt="Tools" />
 </p>
 
-### 🤖 Embedded Systems / DIY Projects
+### Embedded Systems / DIY Projects
 <p align="center">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi,qt,opencv" alt="Embedded Systems" /><br><br>
   <img src="https://avatars.githubusercontent.com/u/8348217?s=200&v=4" alt="EasyEDA" width="40" height="40" style="border-radius: 10px;" /> &nbsp;&nbsp;
 <img src="https://avatars.githubusercontent.com/u/73433441?v=4" alt="JLCPCB" width="80" height="40" style="border-radius: 10px;" />
 </p>
 
-### ☁️ Cloud & Hosting
+### Cloud & Hosting
 <p align="center">
   <img src="https://skillicons.dev/icons?i=firebase,gcp" alt="Cloud" />
 </p>
 
-### 🖥️ Operating Systems
+### Operating Systems
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows,linux,debian,apple" alt="Operating Systems" />
 </p>
 
 ---
 
-  ## 📈 GitHub Stats
-### 🔥 Stats & Streak
+  ## GitHub Stats
+### Stats & Streak
 
 <p align="center">
   <table>
@@ -97,7 +97,7 @@
   </table>
 </p>
 
-### 📈 Contribution Graph
+### Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prasanjit137/prasanjit137/output/github-contribution-grid-snake-dark.svg">
@@ -105,13 +105,13 @@
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/prasanjit137/prasanjit137/output/github-contribution-grid-snake.svg">
 </picture>
 
-### 📈 Activity Graph
+### Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanjit137&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-### 💻 Most Used Languages
+### Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjit137&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
@@ -119,7 +119,7 @@
 
 ---
 
-## 🛡️ Dynamic Badges & Counters
+## Dynamic Badges & Counters
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=prasanjit137&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
