@@ -111,11 +111,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prasanjit137&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </p>
 
-### Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasanjit137&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
